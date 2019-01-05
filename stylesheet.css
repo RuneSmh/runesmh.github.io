@@ -1,3 +1,15 @@
 body {background-color:skyblue;}
+
+/*
+H1's
+*/
+
 h1 {color:white;}
-h1.h1b {padding:50%;}
+h1.h1b {padding-left:50%;}
+
+/*
+Form's
+*/
+
+form {background-color:skyblue;}
+input.
